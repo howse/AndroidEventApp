@@ -25,21 +25,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int button1=0x7f070003;
-        public static final int button2=0x7f070004;
-        public static final int dummy_button=0x7f070002;
-        public static final int fullscreen_content=0x7f070000;
-        public static final int fullscreen_content_controls=0x7f070001;
+        public static final int Location=0x7f070004;
+        public static final int Rnum=0x7f070006;
+        public static final int TimeEnd=0x7f070003;
+        public static final int TimeStart=0x7f070002;
+        public static final int button1=0x7f070009;
+        public static final int button2=0x7f07000a;
+        public static final int createtitle=0x7f070001;
+        public static final int descrip=0x7f070005;
+        public static final int dummy_button=0x7f070008;
+        public static final int fullscreen_content=0x7f070007;
+        public static final int fullscreen_content_controls=0x7f070000;
     }
     public static final class layout {
-        public static final int activity_start_screen=0x7f030000;
+        public static final int activity_create_event=0x7f030000;
+        public static final int activity_start_screen=0x7f030001;
     }
     public static final class string {
         public static final int Create=0x7f050004;
+        public static final int Description=0x7f05000c;
+        public static final int EndT=0x7f05000a;
+        public static final int EventTitle=0x7f050008;
         public static final int Events=0x7f050003;
         public static final int RhodesEvents=0x7f050001;
+        public static final int StartT=0x7f050009;
         public static final int app_name=0x7f050000;
+        public static final int dummy_button=0x7f050006;
+        public static final int dummy_content=0x7f050005;
         public static final int fresh=0x7f050002;
+        public static final int loca=0x7f05000b;
+        public static final int rnum=0x7f05000d;
+        public static final int title_activity_create_event=0x7f050007;
     }
     public static final class style {
         /** 

@@ -59,14 +59,16 @@
             android:layout_height="398dp"
             android:gravity="center_vertical|center_horizontal"
             android:scrollHorizontally="false"
-            android:text="@string/Events" />
+            android:text="@string/Events" 
+            />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="57dp"
             android:layout_height="398dp"
             android:layout_gravity="right"
-            android:text="@string/Create" />
+            android:text="@string/Create"
+            android:onClick="sendNMessage" />
 
     </FrameLayout>
 
